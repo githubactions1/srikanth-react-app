@@ -1,0 +1,30 @@
+{
+    "userdata":[
+        {
+            "id":1,
+            "name":"sri",
+            "mobile":"9876543210",
+            "email":"srikanrh@gmail.com"
+
+        },
+        {
+            "id":2,
+            "name":"sri2",
+            "mobile":"98765432102",
+            "email":"srikanrh2@gmail.com"
+
+        },
+        {
+            "id":3,
+            "name":"sri3",
+            "mobile":"98765432103",
+            "email":"srikanrh3@gmail.com"
+
+        }
+
+
+
+
+    ]
+
+}

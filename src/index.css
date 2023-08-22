@@ -1,0 +1,358 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+.h-img {
+  height: 60px;
+}
+.mr-3{
+  padding: 4px !important;
+  margin-left: 104px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.menu{
+  background-color: blue;
+  margin-bottom: -20px;
+  margin-top: -20px;
+}
+
+.menu ul {
+  display: flex;
+  margin: 20px !important;
+}
+
+.menu-n{
+padding: 17px;
+}
+*{
+  margin:0px;
+}
+
+.menu ul li {
+  list-style-type: none;
+}
+.menu ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.banner{
+  width:100%;
+  height:300px;
+}
+
+.product-img{
+  width: 200px;
+  height: 200px;
+}
+
+.product-grid{
+  border-radius: 15px;
+  border: 2px solid #ccc;
+  margin: 46px;
+  box-shadow: 0px 0 5px 3px #888 !important;
+
+}
+
+.justify-1{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.mt-30{
+  margin-top: 30px;
+}
+.mr-250{
+  margin-left: 272px;
+}
+.logo-img{
+  height: 40px;
+  width:150px;
+  margin-right: 300px;
+  margin-top: 10px;
+}
+.mt-2{
+  margin-top: 20px;
+}
+.about-img{
+  width:100%;
+}
+
+.Contact-border{
+  
+  border-radius: 15px;
+  border: 2px solid #ccc;
+  padding:120px;
+}
+
+.headdingcolor {
+  margin-top:-100px;
+}
+
+.bestbus-121 {
+  border: 3px solid #aaa;
+  /* box-shadow: 5px 0 5px -2px #888 !important; */
+  box-shadow: 0px 0 5px 3px #888 !important;
+  padding:100px;
+  border-radius:10px ;
+}
+
+.bestbus-1211 {
+  border: 3px solid #aaa;
+  /* box-shadow: 5px 0 5px -2px #888 !important; */
+  box-shadow: 0px 0 5px 3px #888 !important;
+}
+
+.about-div{
+  
+  border-radius: 15px;
+  border: 2px solid #ccc;
+  border: 3px solid #aaa;
+  /* box-shadow: 5px 0 5px -2px #888 !important; */
+  box-shadow: 0px 0 5px 3px #888 !important;
+}
+.mb-3{
+  margin-bottom: 20px;
+}
+
+.reg-form{
+  border-radius: 15px;
+  margin-top: 20px;
+  border: 2px solid #ccc;
+  border: 3px solid #aaa;
+  box-shadow: 0px 0 5px 3px #888 !important;
+  padding: 100px  ;
+}
+
+h3{
+  background-size: cover;
+  color: black;
+  text-transform: uppercase;
+  font-size: 8rem;
+
+}
+
+p::first-letter{
+  font-size: 2rem;
+  color: blue;
+}
+
+
+nav{
+  position: sticky;
+  top: 0px;
+}
+.product-details-grid{
+  border-radius: 15px;
+  border: 2px solid #ccc;
+  padding: 46px;
+  box-shadow: 0px 0 5px 3px #888 !important;
+  width: 200px;
+  height: 400px;
+  overflow: hidden;
+}
+
+.product-details-grid img{
+  width: 100%;
+  height: 100%;
+  filter: grayscale(1);
+  transition: .4s;
+}
+.product-details-grid:hover img{
+  filter: none;
+  scale: 1.3;
+}
+a {
+  color: var(--bs-link-color);
+  text-decoration: none;
+}
+
+
+
+
+
+.card11{
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+  border: 6px solid #fff;
+}
+
+.card11 img{
+  width: 100%;
+  height: 100%;
+  filter: grayscale(1);
+  transition: .4s;
+}
+.card11:hover img{
+  filter: none;
+  scale: 1.3;
+}
+.footer-bg{
+  background-color: blue;
+  color: #fff;
+  width: 100%;
+  padding:20px;
+}
+
+.mt-5{
+margin-top: 50px;
+}
+
+.f-gh{
+  font-size:14px;
+  color: #fff !important;
+}
+.bd-d{
+  border-radius: 22px !important;
+  padding:8px !important;
+  border: 3px solid #c;
+}
+
+.btn-div{
+  margin: 0px,2px !important;
+}
+
+.jsn-air-balloon {
+  position: fixed;
+  right: 22px;
+  bottom: 130px;
+  -webkit-animation: balloon 6s ease-in-out infinite;
+  -moz-animation: balloon 6s ease-in-out infinite;
+  -o-animation: balloon 6s ease-in-out infinite;
+  animation: balloon 6s ease-in-out infinite;
+  z-index: 99999 !important;
+  float: right;
+}
+
+.jsn-air-balloon img {
+  width: 70px;
+  height: 106px;
+}
+
+
+
+.flip-load{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.shk{
+  transform: translate3d(0, 0, 0);
+  backface-visibility: hidden;
+  animation-name: shakeMe;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+.float-right {
+  float: right;
+}
+.getfree-est {
+    background-color: #fff;
+    color: #fe4c1a;
+    padding: 4px 10px;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 7px;
+}
+
+
+
+@keyframes shakeMe {
+  2%, 18% {
+      transform: translate3d(-5px, 0, 0);
+  }
+
+  4%, 16% {
+      transform: translate3d(5px, 0, 0);
+  }
+
+  6%, 10%, 14% {
+      transform: translate3d(-5px, 0, 0);
+  }
+
+  8%, 12% {
+      transform: translate3d(5px, 0, 0);
+  }
+  
+  18.1% {
+      transform: translate3d(0px, 0, 0);
+  }
+}
+
+
+.flip-box {
+  background-color: transparent;
+  width: 300px;
+  height: 200px;
+  border: 1px solid #f1f1f1;
+  perspective: 1000px; /* Remove this if you don't want the 3D effect */
+}
+
+/* This container is needed to position the front and back side */
+.flip-box-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+/* Do an horizontal flip when you move the mouse over the flip box container */
+.flip-box:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+
+/* Position the front and back side */
+.flip-box-front, .flip-box-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden; /* Safari */
+  backface-visibility: hidden;
+}
+
+/* Style the front side (fallback if image is missing) */
+.flip-box-front {
+  background-color: #bbb;
+  color: black;
+}
+
+/* Style the back side */
+.flip-box-back {
+  background-color: dodgerblue;
+  color: white;
+  transform: rotateY(180deg);
+}
+
+
+
+.left-m a {
+  text-decoration: none;
+}
+
+
+.inp-img{
+  width: 150px;
+  height: 200px;
+}
