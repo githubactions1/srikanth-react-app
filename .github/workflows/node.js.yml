@@ -26,3 +26,5 @@ jobs:
     - run: npm i
     - run: npm run build --if-present
     - run: mv /home/srikanth/actions-runner/_work/srikanth-react-app/srikanth-react-app/build /home/srikanth/actions-runner/_work/srikanth-react-app/srikanth-react-app/helloreact
+    - run: cd /home/srikanth/actions-runner/_work/srikanth-react-app/srikanth-react-app/helloreact
+    - run: npm run start
