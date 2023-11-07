@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/srikanth-react-app/static/css/main.2ecc7990.css",
+    "main.js": "/srikanth-react-app/static/js/main.c13b119b.js",
+    "static/js/445.53ec9f3c.chunk.js": "/srikanth-react-app/static/js/445.53ec9f3c.chunk.js",
+    "static/js/787.4adb71ea.chunk.js": "/srikanth-react-app/static/js/787.4adb71ea.chunk.js",
+    "static/js/388.5e15851a.chunk.js": "/srikanth-react-app/static/js/388.5e15851a.chunk.js",
+    "static/media/rq.png": "/srikanth-react-app/static/media/rq.81f55091f30be24facee.png",
+    "static/media/s3.jpg": "/srikanth-react-app/static/media/s3.7c87968ae59ad0066caa.jpg",
+    "static/media/s2.jpg": "/srikanth-react-app/static/media/s2.ef5f98ce12c5011fb3a3.jpg",
+    "static/media/about.avif": "/srikanth-react-app/static/media/about.6fe6141f8daf11712762.avif",
+    "index.html": "/srikanth-react-app/index.html",
+    "main.2ecc7990.css.map": "/srikanth-react-app/static/css/main.2ecc7990.css.map",
+    "main.c13b119b.js.map": "/srikanth-react-app/static/js/main.c13b119b.js.map",
+    "445.53ec9f3c.chunk.js.map": "/srikanth-react-app/static/js/445.53ec9f3c.chunk.js.map",
+    "787.4adb71ea.chunk.js.map": "/srikanth-react-app/static/js/787.4adb71ea.chunk.js.map",
+    "388.5e15851a.chunk.js.map": "/srikanth-react-app/static/js/388.5e15851a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ecc7990.css",
+    "static/js/main.c13b119b.js"
+  ]
+}
